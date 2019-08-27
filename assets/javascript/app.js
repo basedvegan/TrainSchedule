@@ -12,3 +12,9 @@
   firebase.initializeApp(firebaseConfig);
 
   var database = firebase.database();
+
+//jquery and javascript go here
+//we want to make a table in firebase to hold our data which will be stored through on click functions from the html page. 
+//example from in class activity in readme
+//after we have our connection we also want to log the times using moment for calculating time differences and displaying them for the user
+//apend results to the html page
