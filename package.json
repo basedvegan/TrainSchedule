@@ -1,0 +1,19 @@
+{
+  "name": "trainschedule",
+  "version": "1.0.0",
+  "description": "Create a train schedule application that incorporates Firebase to host arrival and departure data. Your app will retrieve and manipulate this information with Moment.js. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basedvegan/TrainSchedule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basedvegan/TrainSchedule/issues"
+  },
+  "homepage": "https://github.com/basedvegan/TrainSchedule#readme"
+}
